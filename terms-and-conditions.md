@@ -11,13 +11,13 @@ The App and all the trade marks, copyright, database rights and other intellectu
 You may not:
 
 * copy, or modify the App, any part of the App, or our trademarks, in any way
-* decompile, disassemble, reverse-engineer or attempt to extract the source code of the App
+* decompile, disassemble, reverse-engineer or attempt to extract the source code of, the App
 * translate all or part of the App into other languages
 * make derivative versions of the App
 
 ## Changes to the Service
 
-Iron Llama is committed to ensuring that the Service is as useful and efficient as possible. For that reason, we reserve the right to make changes to the Service or to charge for it, at any time and for any reason. We will never charge you for the Service without making it clear to you exactly what you’re paying for. 
+Iron Llama is committed to ensuring that the Service is as useful and efficient as possible. For that reason, we reserve the right to make changes to the Service or to charge for it, at any time and for any reason. We will never charge you for the Service without making it clear to you exactly what you’re paying for.
 
 The Service stores and processes personal data in the manner set out in the Privacy Policy, which is available at the same location as this Terms and Conditions document.
 
@@ -33,7 +33,7 @@ The Service is made available through Google, who have their own terms of servic
 
 ## Limitations of responsibility
 
-The Service is provided "as-is", and does not make any warranties or guarantees, express or implied, including, but not limited to, warranties of merchantability and fitness for a particular purpose. Iron Llama accepts no liability for any loss, direct or indirect, that you experience as a result of relying wholly on this functionality of the app.
+The Service is provided "as-is", and does not make any warranties or guarantees, express or implied, including, but not limited to, warranties or guarantees of merchantability, fitness for a particular purpose, or absence of bugs and defects. Iron Llama accepts no liability for any loss, direct or indirect, that you experience as a result of relying wholly on this functionality of the app.
 
 Computer software (such as an Android app) is rarely free of defects or errors, and Iron Llama makes no promise that the Service will be bug-free or error-free. Whilst we wish to provide a smooth and functional user experience as part of the Service, we cannot promise to fix bugs or errors in the Service, or to provide any additional features requested by users.
 
